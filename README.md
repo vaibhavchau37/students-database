@@ -54,7 +54,7 @@ $dbname = "students_db";
 ## 5.Start XAMPP and run Apache and MySQL.
 
 ## 6.Open your browser and go to:
-7http://localhost/<your_project_folder>/insert_student.php
+http://localhost/<your_project_folder>/insert_student.php
 
 
 ## 7.Insert student details and check the data by visiting:
