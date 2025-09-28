@@ -33,7 +33,7 @@ It allows you to **insert** student details into a database and **view** all stu
 sql
 CREATE DATABASE students_db;
 
-# 3.Create the students table:
+##  3.Create the students table:
 
 CREATE TABLE students (
     ID INT(11) AUTO_INCREMENT PRIMARY KEY,
@@ -43,7 +43,7 @@ CREATE TABLE students (
 );
 
 
-4.Configure database connection in db_connect.php:
+## 4.Configure database connection in db_connect.php:
 
 $host = "localhost";
 $user = "root";       // default XAMPP username
@@ -51,13 +51,13 @@ $password = "";       // default XAMPP password
 $dbname = "students_db";
 
 
-5.Start XAMPP and run Apache and MySQL.
+## 5.Start XAMPP and run Apache and MySQL.
 
-6.Open your browser and go to:
+## 6.Open your browser and go to:
 7http://localhost/<your_project_folder>/insert_student.php
 
 
-7.Insert student details and check the data by visiting:
+## 7.Insert student details and check the data by visiting:
 http://localhost/<your_project_folder>/view_students.php
 
 Project Structure
