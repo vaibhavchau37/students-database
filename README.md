@@ -33,7 +33,7 @@ It allows you to **insert** student details into a database and **view** all stu
 sql
 CREATE DATABASE students_db;
 
-3.Create the students table:
+## 3.Create the students table:
 
 CREATE TABLE students (
     ID INT(11) AUTO_INCREMENT PRIMARY KEY,
