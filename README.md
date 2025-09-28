@@ -30,7 +30,7 @@ It allows you to **insert** student details into a database and **view** all stu
    
 2. **Create a database** in `phpMyAdmin` named `students_db` (or change the database name in `db_connect.php`).
 
-```sql
+sql
 CREATE DATABASE students_db;
 
 3.Create the students table:
@@ -73,28 +73,3 @@ Project Structure
 Author
 
 Vaibhav Chaudhary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
